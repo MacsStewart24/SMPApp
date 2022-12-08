@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SmartPowerConnector3</string>
+    <string name="add_device">Add a Device</string>
+    <string name="delete_device">Delete Device</string>
+    <string name="edit_device">Edit Device</string>
+    <string name="option">Edit or Delete Device</string>
+    <string name="known_devices">Known Devices</string>
+    <string name="back_button">Back</string>
+    <string name="name1">Device 1</string>
+    <string name="id_1">ID: 121</string>
+    <string name="status1">ON</string>
+    <string name="status2">OFF</string>
+</resources>
